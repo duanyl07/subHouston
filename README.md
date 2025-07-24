@@ -6,4 +6,5 @@
 <img width="250" height="250" alt="subhouston" src="https://github.com/user-attachments/assets/d28a2fc2-1cf5-4ffd-85c4-83227027b6c6" />
 
 <img width="250" height="250" alt="subhouston-gt" src="https://github.com/user-attachments/assets/38f997e4-7a78-4d12-b138-8d88dec0e2aa" />
-<img width="450" height="490" alt="image" src="https://github.com/user-attachments/assets/76b584aa-232d-457a-ae29-384f00ad9da2" />
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/76b584aa-232d-457a-ae29-384f00ad9da2" />
