@@ -10,8 +10,6 @@
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/76b584aa-232d-457a-ae29-384f00ad9da2" />
 
 
-
-Downloda:https://www.jianguoyun.com/c/sd/1b2eeae/4019b2276dd7a318#from=https%3A%2F%2Fwww.jianguoyun.com%2Fc%2Fsd%2F1b2eeae%2F4019b2276dd7a318     
-or email:duanyl@cug.edu.cn
+email:duanyl@cug.edu.cn
 
 The data is big, so you can run "dataclip.py" to create the dataset.
